@@ -1,7 +1,6 @@
 /frontend/node_modules/
 
 /backend/vendor/
-/backend/composer.phar
 /backend/.settings/
 /backend/.buildpath
 /backend/.project
