@@ -30,5 +30,6 @@ Attention, le fichier JS utilisé par index.html est bundle.js, il ne faut pas t
 Quand tout est fait il faut bien vérifier que l'ensemble du dossier (backend et frontend) appartiennent bien au groupe www-data.
 Si ce n'est pas le cas il faudra faire un "sudo chgrp -R www-data tse-escape-bibli" sur le dossier.51.75.126.56/workshop_TSE_bibli
 
-Et c'est finit !
+Une fois que tout ceci est en place l'application est prête à l'usage, le point d'entrée sera l'index.html du dossier frontend.
+À vous de jouer !
 N'hésitez pas à nous contacter en cas de problème.
